@@ -1,0 +1,23 @@
+Como desenvolvedor C/C++, você já deve estar familiarizado com convenções de código como:
+
+    Google C++ Style Guide
+    LLVM Coding Standards
+    Convenções específicas de projeto
+
+O PEP 8 é o equivalente Python desses guias, mas com algumas diferenças importantes:
+Princípios Fundamentais (Python vs C++)
+
+    Indentação:
+
+        Python: 4 espaços sempre (não use tabs)
+        C++: Geralmente 2/4 espaços ou tabs (varia por projeto)
+
+    Nomes:
+
+        Python: snake_case para tudo (funções, variáveis)
+        C++: snake_case ou camelCase (depende do estilo)
+
+    Linhas:
+
+        Python: Máx. 79 caracteres (72 para docstrings/comentários)
+        C++: Geralmente 80-120 caracteres (mais flexível)

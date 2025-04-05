@@ -1,0 +1,25 @@
+Desenvolvimento de Jogos
+    pygame: Simples framework multimídia
+    arcade: Moderna alternativa para jogos 2D
+
+Automação e Scripting
+
+    selenium: Automação de navegadores
+    pyautogui: Controle de mouse/teclado
+
+Computação Científica
+
+    scipy: Algoritmos científicos
+    sympy: Matemática simbólica
+
+Embarcados e IoT
+
+    micropython: Python para microcontroladores
+    pyserial: Comunicação serial
+
+Como Escolher Bibliotecas?
+
+    Popularidade: Verifique PyPI downloads e GitHub stars
+    Manutenção: Último release e frequência de commits
+    Documentação: Qualidade e exemplos
+    Compatibilidade: Suporte à sua versão do Python
