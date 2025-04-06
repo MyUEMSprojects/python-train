@@ -1,0 +1,13 @@
+projeto/
+├── src/
+│   ├── pacote/
+│   │   ├── __init__.py
+│   │   ├── modulo.py
+│   │   └── subpacote/
+├── tests/
+│   ├── __init__.py
+│   ├── test_unit.py
+│   └── test_integration.py
+├── docs/
+├── pyproject.toml
+└── README.md
