@@ -1,0 +1,7 @@
+Padrão	   C++ Approach	              Python Approach
+
+Singleton	 Static instance            method	Override __new__
+Factory	   Abstract base classes	    Functions or classes
+Strategy	 Virtual methods	          First-class functions
+Observer	 Event interfaces	          Callbacks/properties
+Decorator	 Wrapper classes	          Function decorators
